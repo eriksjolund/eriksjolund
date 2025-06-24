@@ -1,4 +1,4 @@
-I like discovering new things. Examples of my findings: security vulnerabilities in Kubernetes, Podman and Singularity.
+I like discovering new things. Examples of my findings: security vulnerabilities in Kubernetes, Podman and Crun.
 I've also created a SIMD algorithm that efficiently loads and shifts columns into diagonals. Here are the three first iteration steps of the algorithm:
 
 ```
